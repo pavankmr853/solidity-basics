@@ -1,9 +1,9 @@
 # solidity-basics
 
-what you learn in this?
+# What you learn in this?
 # strings
 # bool
 # uint
 # int
 # address
-# blance cheking
+# balance checking
